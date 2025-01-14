@@ -1,6 +1,6 @@
 # PredictiveAnalysis-NonlinearRegression
 This is a project that is centered around predictive analyses - nonlinear regression, specifically quadratic and interactive models. 
-The intended use of this file is to provide exhibitive materials as proof of skills competency in excel, mathematics & statistics as well as industry (non-specific) techniques. 
+The intended use of this file is to provide exhibitive materials as proof of skills competency in excel, mathematics & statistics as well as industry (non-specific) analytical techniques. 
 This dataset has multiple variables relating to the marketing industry. Details are below:
 
  Problem: A company's marketing campaigns initially drive higher returns (revenue), but after reaching a saturation point, additional spend generates diminishing returns or even negative ROI. 
